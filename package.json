@@ -1,0 +1,11 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "Math puzzle game for gmtk game{jam}; 2019",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shantaram",
+  "license": ""
+}
